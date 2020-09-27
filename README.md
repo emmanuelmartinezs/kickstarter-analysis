@@ -30,16 +30,27 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 2. A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date".
 
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Pivot%20Table%20for%20Outcomes%20Based%20on%20Launch%20Date.PNG?raw=true)
+
 3. The pivot table filters on "Parent Category" and "Years".
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Pivot%20table%20filters%20on%20Parent%20Category%20and%20Years.PNG?raw=true)
 
 4. The columns, rows, and values in the pivot table fields are correctly populated.
 
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+
 5. The "Parent Category" is filtered on "theater".
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Filtered%20on%20Theater.PNG?raw=true)
 
 6. The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order.
 
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+
 7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png.
 
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
