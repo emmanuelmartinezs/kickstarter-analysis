@@ -137,17 +137,15 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 ### Challenges and Difficulties Encountered
 
-A deep dive into Excel, as we know, Excel is a tool that can be used across all Organizations areas, including from household budgeting to complex financial analysis. 
-Learning from the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning. 
-Including advanced Excel features formulas, charts, and pivot tables.
+Biggest challenge was filtering the pivot table to visualize the relationship between parent category and years, adding the correct dataset into the Columns, Rows and Values.
 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-> As Conclusions, our Line charts we can see by looking at our data that the months of **May and June** both have a greater success rate. 
-> A bar chart **wouldn't** be able to convey this information in the same manner, so it's important to keep in mind the type of data story we want to tell.
+> As Conclusions, our Line charts we can see by looking at our data that the months of **May and June** both have a greater success rate.
+> A bar chart **wouldn't** be able to convey this information in the same manner.
 
 
 
@@ -157,8 +155,26 @@ Including advanced Excel features formulas, charts, and pivot tables.
 
 - What can you conclude about the Outcomes based on Goals?
 
+> As Conclusion, our Outcomes based on Goals measures using line chart of central tendency work in practice help us finding the mean and median for each dataset's (the failed and successful campaigns).
+
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
+
+
 - What are some limitations of this dataset?
 
+> Some limitation can be that we'd like to know the deviations from the actual dataset, but because we don't know, these deviations have a subtle and slight bias to them. 
+
+
 - What are some other possible tables and/or graphs that we could create?
+
+> - Box Plots
+> - Pie Graph
+> - Column Graph
+> - Line Graph
+> - Area Graph
+> - Scatter Graph
+
+
 
 
