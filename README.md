@@ -137,9 +137,23 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 ### Challenges and Difficulties Encountered
 
+A deep dive into Excel, as we know, Excel is a tool that can be used across all Organizations areas, including from household budgeting to complex financial analysis. 
+Learning from the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning. 
+Including advanced Excel features formulas, charts, and pivot tables.
+
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+> As Conclusions, our Line charts we can see by looking at our data that the months of **May and June** both have a greater success rate. 
+> A bar chart **wouldn't** be able to convey this information in the same manner, so it's important to keep in mind the type of data story we want to tell.
+
+
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
+
+
 
 - What can you conclude about the Outcomes based on Goals?
 
