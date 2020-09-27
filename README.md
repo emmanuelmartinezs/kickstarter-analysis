@@ -24,8 +24,9 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 ### Analysis of Outcomes Based on Launch Date
  
 #### Deliverable Requirements with detail analysis:
-1. A "Years" column is created based on the "Date Created Conversion" column in the Kickstarter spreadsheet.
+1. A Years column is created based on the Date Created Conversion column in the Kickstarter spreadsheet.
 
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
 
 2. A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date".
 
