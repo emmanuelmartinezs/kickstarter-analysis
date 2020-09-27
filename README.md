@@ -158,7 +158,7 @@ Biggest challenge was filtering the pivot table to visualize the relationship be
 > As Conclusion, our Outcomes based on Goals measures using line chart of central tendency work in practice help us finding the mean and median for each dataset's (the failed and successful campaigns).
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Outcomes_vs_Goals.PNG?raw=true)
 
 
 - What are some limitations of this dataset?
