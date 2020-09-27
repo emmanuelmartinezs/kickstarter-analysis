@@ -8,6 +8,15 @@ Learning from the intricacies of Excel will draw on (and enhance) skills we may 
 Including advanced Excel features formulas, charts, and pivot tables. 
 
 ## Analysis and Challenges
+Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
+
+- Import data into a table for analysis.
+- Apply filters, conditional formatting, and formulas.
+- Generate and interpret pivot tables.
+- Calculate summary statistics such as measures of central tendency, standard deviation, and variance.
+- Characterize data to identify outliers in datasets.
+- Perform an Excel analysis with visualizations.
+- Interpret common Excel visualizations
 
 ### Analysis of Outcomes Based on Launch Date
 
