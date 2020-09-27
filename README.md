@@ -46,11 +46,11 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 6. The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Month%20on%20Row%20and%20Outcomes%20in%20descending.PNG?raw=true)
 
-7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png.
+7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as [Theater_Outcomes_vs_Launch.png]
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
