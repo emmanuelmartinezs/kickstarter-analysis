@@ -18,7 +18,19 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 - Perform an Excel analysis with visualizations.
 - Interpret common Excel visualizations
 
+#### Our Challenge Data Background
+> Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
+
 ### Analysis of Outcomes Based on Launch Date
+Here's a quick look at the Kickstarting Analysis and Challenges of this Project, including the following tasks:
+
+- Import data into a table for analysis.
+- Apply filters, conditional formatting, and formulas.
+- Generate and interpret pivot tables.
+- Calculate summary statistics such as measures of central tendency, standard deviation, and variance.
+- Characterize data to identify outliers in datasets.
+- Perform an Excel analysis with visualizations.
+- Interpret common Excel visualizations
 
 ### Analysis of Outcomes Based on Goals
 
