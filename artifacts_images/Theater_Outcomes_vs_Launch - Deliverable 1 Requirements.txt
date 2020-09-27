@@ -1,0 +1,9 @@
+Deliverable 1 Requirements - COMPLETED
+
+1) A "Years" column is created based on the "Date Created Conversion" column in the Kickstarter spreadsheet (10 pt).
+2) A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date" (5 pt).
+3) The pivot table filters on "Parent Category" and "Years" (10 pt).
+4) The columns, rows, and values in the pivot table fields are correctly populated (10 pt).
+5) The "Parent Category" is filtered on "theater" (5 pt).
+6) The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order (5 pt).
+7) A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).
