@@ -28,49 +28,49 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 > In the "Years" column, use the `YEAR()` function to extract the year from the “Date Created Conversion” column.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
 
 
 2. A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date".
 
 > Created a pivot table from the KickStarter worksheet, and placed the pivot table in a new sheet.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Pivot%20Table%20for%20Outcomes%20Based%20on%20Launch%20Date.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20Table%20for%20Outcomes%20Based%20on%20Launch%20Date.PNG?raw=true)
 
 
 3. The pivot table filters on "Parent Category" and "Years".
 
 > Placed the appropriate pivot table pivot table based on Parent Category and the Years data filtered.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Pivot%20table%20filters%20on%20Parent%20Category%20and%20Years.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20table%20filters%20on%20Parent%20Category%20and%20Years.PNG?raw=true)
 
 
 4. The columns, rows, and values in the pivot table fields are correctly populated.
 
 > Placed the appropriate pivot table fields.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/A%20Years%20column%20is%20created.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
 
 
 5. The "Parent Category" is filtered on "theater".
 
 > Placed the appropriate filter on pivot table.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Filtered%20on%20Theater.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Filtered%20on%20Theater.PNG?raw=true)
 
 
 6. The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order.
 
 > Grouping data in a PivotTable can help you show a subset of data to analyze. For example, you may want to group an unwieldy list of dates or times (date and time fields in the PivotTable) into quarters and months, etc.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Month%20on%20Row%20and%20Outcomes%20in%20descending.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Month%20on%20Row%20and%20Outcomes%20in%20descending.PNG?raw=true)
 
 
 7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as **[Theater_Outcomes_vs_Launch.png]**
 
 > Created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
 
 
 
